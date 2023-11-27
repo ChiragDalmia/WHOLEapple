@@ -3,7 +3,9 @@
 </h1>
 
 ## 💫 About Me:
+
 <br>
+
 🔭 **Working on:** Responsive web apps and learning serverless architectures.
 
 👯 **Looking to collaborate:** Open-source web projects, especially with JavaScript frameworks.
