@@ -3,7 +3,7 @@
 </h1>
 
 ## 💫 About Me:
-
+<br>
 🔭 **Working on:** Responsive web apps and learning serverless architectures.
 
 👯 **Looking to collaborate:** Open-source web projects, especially with JavaScript frameworks.
@@ -15,7 +15,7 @@
 ⚡ **Fun fact:** Passionate about digital art and outdoor adventures.
 
 ## 🌐 Socials:
-
+<br>
 <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none; border-radius: 8px;">
   <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=briefcase&logoColor=white" alt="Portfolio" style="height:30px; border-radius: 8px;" />
 </a>
@@ -36,6 +36,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
+<br><br>
 
 <div align="right">
   <a href="https://visitcount.itsvg.in">
