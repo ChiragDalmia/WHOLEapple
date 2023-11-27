@@ -5,7 +5,16 @@
 <h3 align="center">A passionate web developer</h3>
 
 ## 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+
+🔭 **Working on:** Responsive web apps and learning serverless architectures.
+
+👯 **Looking to collaborate:** Open-source web projects, especially with JavaScript frameworks.
+
+🌱 **Learning:** Cloud computing (AWS, Azure) and advanced backend development.
+
+💬 **Ask me about:** Web development, UI/UX design, and software best practices.
+
+⚡ **Fun fact:** Passionate about digital art and outdoor adventures.
 
 
 <div align="right">
