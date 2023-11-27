@@ -22,8 +22,8 @@
 <a href="https://linkedin.com/in/ezSnippet" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="[YourPortfolioLinkHere]" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&logoColor=white" alt="Portfolio" />
+<a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=briefcase&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/ezSnippet" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" />
