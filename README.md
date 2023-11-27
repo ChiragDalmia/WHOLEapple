@@ -8,12 +8,27 @@
 
 👯 **Looking to collaborate:** Open-source web projects, especially with JavaScript frameworks.
 
-🌱 **Learning:** Cloud computing (AWS, Azure) and advanced backend development.
+🌱 **Learning:** Cloud computing (AWS, Azure) and some advanced backend development.
 
 💬 **Ask me about:** Web development, UI/UX design, and software best practices.
 
 ⚡ **Fun fact:** Passionate about digital art and outdoor adventures.
 
+## 🌐 Socials:
+<div align="center"> 
+<a href="https://twitter.com/ezSnippet" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://linkedin.com/in/ezSnippet" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="[YourPortfolioLinkHere]" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/ezSnippet" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" />
+</a>
+</div>
 
 <div align="right">
   <a href="https://visitcount.itsvg.in">
